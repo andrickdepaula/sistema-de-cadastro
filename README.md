@@ -4,6 +4,6 @@
 
 para  rodar esse projeto em sua maquina por favor digie 
 
-```
-npm install react
-```
+´´´
+node app.js
+´´´

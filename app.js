@@ -1,1 +1,1 @@
-console.log ("rodando o sistema de gerenciameto de jogos")
+console.log ("rodando o sistema de gerenciameto de jogos")onirb 
